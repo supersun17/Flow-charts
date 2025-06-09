@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="DLOGIAq8vPEPJY1FGp4w">
-    <mxGraphModel dx="2268" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
             <mxPoint x="260" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CcABF7aJKVScgHaoGVrG-5" value="&lt;span style=&quot;&quot;&gt;Because&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;willENterForeground&lt;/b&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;always happen before&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;continueUserActivity&lt;/b&gt;&lt;span style=&quot;&quot;&gt;, we might cancel a unfinished Alipay payment.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="CcABF7aJKVScgHaoGVrG-5" value="&lt;span style=&quot;&quot;&gt;Because&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;willENterForeground&lt;/b&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;always happen before&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;continueUserActivity&lt;/b&gt;&lt;span style=&quot;&quot;&gt;, we might cancel a&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-8.5" y="345" width="91.5" height="30" as="geometry" />
         </mxCell>
       </root>
